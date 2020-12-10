@@ -1,0 +1,14 @@
+{
+  "name": "ti-minicolors",
+  "description": "npm hosted jquery.minicolors for ti",
+  "version": "1.0.0",
+  "author": "Chris McC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thoughtindustries/ti-minicolors.git"
+  },
+  "main": "jquery.minicolors.js",
+  "devDependencies": {
+  }
+}
